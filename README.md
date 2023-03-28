@@ -1,22 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=nonenoo&fontAlignY=40&desc=Web%20Developer&descAlignY=55&fontSize=60&animation=twinkling&color=gradient&customColorList=1&rotate=2)
-
-<div align="center">
-  
-<h3>🐹 { 난언터처블햄찌 💨 )</h3>
-  
-  지금은 깃허브 공사중입니다!🔧
-  
-</div>
-<br>
-<br>
-
 - 뚝딱뚝딱 **만들기**가 취미예요! **뜨개질**🧶도 하고 **타르트**🥧도 구워요.
 - **웹**에서도 비슷한 걸 하고 있어요. 늘 뚝딱뚝딱🛠 열심히 공사중이랍니다! 😁
 - 느리지만 천천히, ***랄랄라***🎵 하며 멀리 가보고 싶어요!🏃‍♀️
 
 <br>
 
-> 요즘은? **Spring 공부중!**
+> 요즘은? **유유자적 쉬는 중!**
 
 <br>
   
